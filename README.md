@@ -16,7 +16,7 @@
 
 ### Screenshot
 
-![](./screenshots./card.png)
+![](./screenshots/card.png)
 
 ## My process
 
